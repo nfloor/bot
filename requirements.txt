@@ -1,0 +1,4 @@
+aiogram>=3.3.0
+pandas>=2.0.0
+numpy>=1.24.0  # pandas зависит от numpy
+python-dotenv>=1.0.0  # опционально, для локальной разработки
